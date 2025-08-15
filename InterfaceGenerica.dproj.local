@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2025/08/15 09:13:37.206,=C:\Users\andre.nobre\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2025/08/15 09:13:44.894,=C:\Users\andre.nobre\Documents\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>2025/08/15 09:28:17.052,=C:\Users\andre.nobre\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2025/08/15 09:38:46.435,D:\Projetos\andre\Exemplo\Interface Generica\uView.pas=C:\Users\andre.nobre\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2025/08/15 09:38:46.435,D:\Projetos\andre\Exemplo\Interface Generica\uView.dfm=C:\Users\andre.nobre\Documents\Embarcadero\Studio\Projects\Unit4.dfm</Transaction>
+    <Transaction>2025/08/15 09:39:03.344,D:\Projetos\andre\Exemplo\Interface Generica\uMensagem.pas=C:\Users\andre.nobre\Documents\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>2025/08/15 09:39:11.470,D:\Projetos\andre\Exemplo\Interface Generica\uMensagem1.pas=C:\Users\andre.nobre\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2025/08/15 09:39:23.425,D:\Projetos\andre\Exemplo\Interface Generica\InterfaceGenerica.dproj=C:\Users\andre.nobre\Documents\Embarcadero\Studio\Projects\Project5.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
